@@ -32,7 +32,7 @@ while True:
     while word in rights:
         word = list(spellings.keys())[randint(0, len(spellings)-1)]
     print(spellings[word])
-    ANSWER = str(input())
+    ANSWER = str(input().strip())
     if ANSWER.lower() == word.lower():
         print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCorrect!")
         rights.append(word)
