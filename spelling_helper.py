@@ -2,28 +2,28 @@
 from random import randint
 rights = []
 spellings = {
-    "Autocracy": "A government where one person has power over others",
-    "Automatic": "Working by itself",
-    "Autotroph": "Makes its own food, e.g., a plant",
-    "Autobiography": "A story of someone’s life written by that person",
-    "Anthropology": "The study of humans",
-    "Anthropoid": "Human-like in shape",
-    "Philanthropist": "Someone who loves humans",
-    "Biology": "Study of life",
-    "Biography": "A story of someone’s life",
-    "Biosphere": "Part of the earth where organisms live",
-    "Integer": "A whole positive or negative number",
-    "Parallel": "When it is the same distance apart, never touching",
-    "Perpendicular": "At right angles to another object or line",
-    "Vertices": "When two arms of an angle meet or the adjacent sides of a polygon or solid meet",
-    "Symmetrical": "When an object can be divided by one or more lines of symmetry",
-    "Polygon": "A 2D shape with three or more straight sides",
-    "Quadrilateral": "A polygon with four angles and four sides",
-    "Circumference": "The distance around a circle",
-    "Substitute": "To replace letters in algebra with numbers",
-    "Multiplier": "A number used to facilitate a percentage increase or decrease",
-    "Significant": "In maths, the digits that give the most meaning to a number"
+    "Chronicle": "Events in time",
+    "Chronic": "Something persisting for a long time or constantly reoccurring",
+    "Chronological": "In 'time' order sequence",
+    "Synchronised": "Happens at the same time",
+    "Dynasty": "A series of leaders or rulers who are all from the same family",
+    "Dynamite": "A powerful explosive",
+    "Dynamic": "Full of energy and power",
+    "Dystopia": "An imaginary place where living conditions are dreadful",
+    "Dysphoria": "A sense of great unhappiness or dissatisfaction",
+    "Dysfunction": "Abnormal functioning as of an organ of the body",
+    "Reversible": "A reaction where the products can change back into the reactants",
+    "Chromatography": "A way of separating out the pigments in a dye",
+    "Distillation": "Used to extract a pure liquid from a solution",
+    "Evaporation": "When liquid particles gain enough energy to break free from the liquid as a gas",
+    "Reactants": "The substances that you start with in a chemical reaction",
+    "Combustion": "The proper chemistry name for burning",
+    "Effervescence": "The proper chemistry name for fizzing",
+    "Oxidation": "A chemical reaction with oxygen",
+    "Exothermic": "A reaction where heat energy is given out",
+    "Neutralisation": "When an acid and alkali are reacted together"
 }
+
 
 while True:
     if len(spellings) == len(rights):
