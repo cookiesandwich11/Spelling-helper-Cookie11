@@ -1,42 +1,45 @@
 """Module defining the randint"""
 from random import randint
-rights = []
+
 spellings = {
-    "Chronicle": "Events in time",
-    "Chronic": "Something persisting for a long time or constantly reoccurring",
-    "Chronological": "In 'time' order sequence",
-    "Synchronised": "Happens at the same time",
-    "Dynasty": "A series of leaders or rulers who are all from the same family",
-    "Dynamite": "A powerful explosive",
-    "Dynamic": "Full of energy and power",
-    "Dystopia": "An imaginary place where living conditions are dreadful",
-    "Dysphoria": "A sense of great unhappiness or dissatisfaction",
-    "Dysfunction": "Abnormal functioning as of an organ of the body",
-    "Reversible": "A reaction where the products can change back into the reactants",
-    "Chromatography": "A way of separating out the pigments in a dye",
-    "Distillation": "Used to extract a pure liquid from a solution",
-    "Evaporation": "When liquid particles gain enough energy to break free from the liquid as a gas",
-    "Reactants": "The substances that you start with in a chemical reaction",
-    "Combustion": "The proper chemistry name for burning",
-    "Effervescence": "The proper chemistry name for fizzing",
-    "Oxidation": "A chemical reaction with oxygen",
-    "Exothermic": "A reaction where heat energy is given out",
-    "Neutralisation": "When an acid and alkali are reacted together"
+    'hypothermia': 'Condition of having a low body temperature',
+    'Hypoglycaemic': 'When blood sugar decreases to below normal levels',
+    'Hypotenuse': 'Side of a right triangle that is stretched under the right angle',
+    'hypodermic': 'Pertaining to under the skin',
+    'Hyperbole': 'Overly praising something',
+    'Hyperactive': 'Overly active',
+    'Hyperglycaemic': 'When blood sugar increases to above normal levels',
+    'Psychology': 'The study of the human mind',
+    'Technology': 'The study of scientific knowledge',
+    'Terminology': 'A system of terms used in academic study',
+    'Aerobic': 'Meaning with oxygen',
+    'Bronchioles': 'The small tubes in the lungs that extend from the bronchi',
+    'Diaphragm': 'The sheet of muscle at the base of the chest cavity',
+    'Ventricles': 'The lower muscular chambers in the heart',
+    'Respiration': 'A chemical reaction that reacts glucose with oxygen',
+    'Vaccination': 'Trains your immune system on how to respond to a pathogen',
+    'Adaptation': 'Evolution produces organisms that are well suited to their environment',
+    'Chromosome': 'The structure made of DNA in a cell',
+    'Ecosystem': 'A large area on Earth with similar weather, conditions, and living things',
+    'Pesticide': 'A chemical sprayed on crops to kill insects or tackle plant diseases',
 }
 
+rights = []
 
 while True:
     if len(spellings) == len(rights):
         break
-    word = list(spellings.keys())[randint(0, len(spellings)-1)]
+
+    word = list(spellings.keys())[randint(0, len(spellings) - 1)]
     while word in rights:
-        word = list(spellings.keys())[randint(0, len(spellings)-1)]
+        word = list(spellings.keys())[randint(0, len(spellings) - 1)]
+
     print(spellings[word])
     ANSWER = str(input().strip())
     if ANSWER.lower() == word.lower():
-        print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCorrect!")
+        print("\nCorrect!")
         rights.append(word)
     else:
-        print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWrong :( \n The word was: " +
-              word.lower() + "\n Your word was: " + ANSWER)
+        print("Wrong :( \n The word was: " + word.lower() + "\n Your word was: " + ANSWER)
+
 print("You have finished the practice!")
