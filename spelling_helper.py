@@ -26,7 +26,7 @@ spellings = {
 
 
 rights = []
-
+wrongs = 0
 while True:
     if len(spellings) == len(rights):
         break
@@ -40,7 +40,9 @@ while True:
     if ANSWER.lower() == word.lower():
         print("\nCorrect!")
         rights.append(word)
+        print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
     else:
         print("Wrong :( \n The word was: " + word.lower() + "\n Your word was: " + ANSWER)
+        wrongs += 1
 
-print("You have finished the practice!")
+print("You have finished the practice! Your score: " + str(wrongs) + "/20")
