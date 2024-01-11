@@ -2,27 +2,28 @@
 from random import randint
 
 spellings = {
-    'hypothermia': 'Condition of having a low body temperature',
-    'Hypoglycaemic': 'When blood sugar decreases to below normal levels',
-    'Hypotenuse': 'Side of a right triangle that is stretched under the right angle',
-    'hypodermic': 'Pertaining to under the skin',
-    'Hyperbole': 'Overly praising something',
-    'Hyperactive': 'Overly active',
-    'Hyperglycaemic': 'When blood sugar increases to above normal levels',
-    'Psychology': 'The study of the human mind',
-    'Technology': 'The study of scientific knowledge',
-    'Terminology': 'A system of terms used in academic study',
-    'Aerobic': 'Meaning with oxygen',
-    'Bronchioles': 'The small tubes in the lungs that extend from the bronchi',
-    'Diaphragm': 'The sheet of muscle at the base of the chest cavity',
-    'Ventricles': 'The lower muscular chambers in the heart',
-    'Respiration': 'A chemical reaction that reacts glucose with oxygen',
-    'Vaccination': 'Trains your immune system on how to respond to a pathogen',
-    'Adaptation': 'Evolution produces organisms that are well suited to their environment',
-    'Chromosome': 'The structure made of DNA in a cell',
-    'Ecosystem': 'A large area on Earth with similar weather, conditions, and living things',
-    'Pesticide': 'A chemical sprayed on crops to kill insects or tackle plant diseases',
+    "Thermometer": "A device that measures heat",
+    "Symmetry": "The quality of being the same on both sides",
+    "Asymmetry": "The quality of not being the same on both sides",
+    "Geometry": "Maths dealing with the measurement of angles, area, space and volume",
+    "Microscope": "An instrument that makes ‘small’ things perceptible",
+    "Microphone": "Makes a small voice loud",
+    "Microbe": "Very small life form",
+    "Monopoly": "Control by one",
+    "Monologue": "Speech given by one person",
+    "Monotone": "Using one tone only",
+    "Programming": "The creation of software code for microcontrollers and electronics",
+    "Environment": "The space or situation that a product will be placed and/or used",
+    "Macronutrient": "A type of food (e.g. fat, protein, carbohydrate) required in large amounts in the diet",
+    "Prototyping": "A process that involves the production of a test model, on which the final product is based",
+    "Soldering": "A way of joining electronic components to a circuit board",
+    "Recipe": "A list of ingredients and instructions for cooking",
+    "Mechanisms": "For example, gears, pulleys. Used to convey movement",
+    "Oscillating": "Pendulum motion",
+    "Reciprocating": "Backwards and forwards motion",
+    "Nutrition": "The process of providing or obtaining the food necessary for health and growth"
 }
+
 
 rights = []
 
