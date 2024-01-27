@@ -2,27 +2,28 @@
 from random import randint
 
 spellings = {
-    "Thermometer": "A device that measures heat",
-    "Symmetry": "The quality of being the same on both sides",
-    "Asymmetry": "The quality of not being the same on both sides",
-    "Geometry": "Maths dealing with the measurement of angles, area, space and volume",
-    "Microscope": "An instrument that makes ‘small’ things perceptible",
-    "Microphone": "Makes a small voice loud",
-    "Microbe": "Very small life form",
-    "Monopoly": "Control by one",
-    "Monologue": "Speech given by one person",
-    "Monotone": "Using one tone only",
-    "Programming": "The creation of software code for microcontrollers and electronics",
-    "Environment": "The space or situation that a product will be placed and/or used",
-    "Macronutrient": "A type of food (e.g. fat, protein, carbohydrate) required in large amounts in the diet",
-    "Prototyping": "A process that involves the production of a test model, on which the final product is based",
-    "Soldering": "A way of joining electronic components to a circuit board",
-    "Recipe": "A list of ingredients and instructions for cooking",
-    "Mechanisms": "For example, gears, pulleys. Used to convey movement",
-    "Oscillating": "Pendulum motion",
-    "Reciprocating": "Backwards and forwards motion",
-    "Nutrition": "The process of providing or obtaining the food necessary for health and growth"
+    "Foliage": "Leaves of a plant",
+    "Folio": "A large sheet of paper",
+    "Portfolio": "A collection of one’s work",
+    "Exfoliate": "To cast off in layers as skin, bark, or rock",
+    "Gregarious": "Outgoing; sociable",
+    "Segregate": "To separate from the group",
+    "Congregate": "To gather together",
+    "Aggregate": "Collection from separate parts",
+    "Congregation": "Gathering of people",
+    "Egregious": "Standing out of the group for being bad or evil",
+    "Dehydration": "Excessive loss of body water interrupting the function of the body",
+    "Hydration": "Having enough water to enable normal functioning of the body",
+    "Rehydration": "Consuming water to restore hydration",
+    "Fitness": "The ability to meet/cope with the demands of the environment",
+    "Gamesmanship": "Attempting to gain an advantage by stretching the rules to their limit, e.g., time wasting",
+    "Intrinsic Motivation": "The drive that comes from within",
+    "Extrinsic Motivation": "The drive to perform well or to win in order to gain external rewards",
+    "Recovery": "Time required to repair the damage to the body caused by training or competition",
+    "Sedentary lifestyle": "A lifestyle with irregular or no physical activity",
+    "Well-being": "Involves physical, mental, and social well-being",
 }
+
 
 
 rights = []
