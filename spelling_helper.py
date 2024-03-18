@@ -2,27 +2,28 @@
 from random import randint
 
 spellings = {
-    "Foliage": "Leaves of a plant",
-    "Folio": "A large sheet of paper",
-    "Portfolio": "A collection of one’s work",
-    "Exfoliate": "To cast off in layers as skin, bark, or rock",
-    "Gregarious": "Outgoing; sociable",
-    "Segregate": "To separate from the group",
-    "Congregate": "To gather together",
-    "Aggregate": "Collection from separate parts",
-    "Congregation": "Gathering of people",
-    "Egregious": "Standing out of the group for being bad or evil",
-    "Dehydration": "Excessive loss of body water interrupting the function of the body",
-    "Hydration": "Having enough water to enable normal functioning of the body",
-    "Rehydration": "Consuming water to restore hydration",
-    "Fitness": "The ability to meet/cope with the demands of the environment",
-    "Gamesmanship": "Attempting to gain an advantage by stretching the rules to their limit, e.g., time wasting",
-    "Intrinsic Motivation": "The drive that comes from within",
-    "Extrinsic Motivation": "The drive to perform well or to win in order to gain external rewards",
-    "Recovery": "Time required to repair the damage to the body caused by training or competition",
-    "Sedentary lifestyle": "A lifestyle with irregular or no physical activity",
-    "Well-being": "Involves physical, mental, and social well-being",
+    "Corrupt": "Crooked; immoral",
+    "Erupt": "To burst forth",
+    "Rupture": "To break or burst",
+    "Disrupt": "To cause disorder",
+    "Abrupt": "Sudden",
+    "Bankrupt": "Having no money; 'broke'",
+    "Interrupt": "To cause a break in the flow",
+    "Condolence": "Sympathy",
+    "Doleful": "Full of sadness or sorrow",
+    "Dolorous": "Feeling, showing or causing grief",
+    "Buddhist": "A person who follows the path of Siddhartha Gautama.",
+    "Buddhism": "A religious philosophy founded by Siddhartha Gautama.",
+    "Meditate": "A form of Buddhist worship that focuses the mind.",
+    "Precepts": "Five moral rules to help a Buddhist live a better life.",
+    "Siddhartha Gautama": "The founder of Buddhism.",
+    "Buddha": "The title given to Siddhartha Gautama when he reached enlightenment.",
+    "Morality": "A system of values concerning right and wrong.",
+    "Morals": "Standards of behaviour e.g. right or wrong.",
+    "Absolute": "An action that is right or wrong all of the time.",
+    "Relative": "An action that is right or wrong depending on the situation."
 }
+
 
 
 
