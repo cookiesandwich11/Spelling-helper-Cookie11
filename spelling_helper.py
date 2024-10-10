@@ -2,27 +2,28 @@
 from random import randint
 
 spellings = {
-    "Corrupt": "Crooked; immoral",
-    "Erupt": "To burst forth",
-    "Rupture": "To break or burst",
-    "Disrupt": "To cause disorder",
-    "Abrupt": "Sudden",
-    "Bankrupt": "Having no money; 'broke'",
-    "Interrupt": "To cause a break in the flow",
-    "Condolence": "Sympathy",
-    "Doleful": "Full of sadness or sorrow",
-    "Dolorous": "Feeling, showing or causing grief",
-    "Buddhist": "A person who follows the path of Siddhartha Gautama.",
-    "Buddhism": "A religious philosophy founded by Siddhartha Gautama.",
-    "Meditate": "A form of Buddhist worship that focuses the mind.",
-    "Precepts": "Five moral rules to help a Buddhist live a better life.",
-    "Siddhartha Gautama": "The founder of Buddhism.",
-    "Buddha": "The title given to Siddhartha Gautama when he reached enlightenment.",
-    "Morality": "A system of values concerning right and wrong.",
-    "Morals": "Standards of behaviour e.g. right or wrong.",
-    "Absolute": "An action that is right or wrong all of the time.",
-    "Relative": "An action that is right or wrong depending on the situation."
+    "Chronicle": "Events in time",
+    "Chronic": "Something persisting for a long time or constantly reoccurring",
+    "Chronological": "In time order sequence",
+    "Synchronised": "Happens at the same time",
+    "Dynasty": "A series of leaders or rulers who are all from the same family",
+    "Dynamite": "A powerful explosive",
+    "Dynamic": "Full of energy and power",
+    "Dystopia": "An imaginary place where living conditions are dreadful",
+    "Dysphoria": "A sense of great unhappiness or dissatisfaction",
+    "Dysfunction": "Abnormal functioning, as of an organ of the body",
+    "Accuracy": "A measurement which is judged to be close to the true value",
+    "Calibration": "A scale on a measuring instrument",
+    "Data": "Information, either qualitative or quantitative, that has been collected",
+    "Evidence": "Data which has been shown to be valid",
+    "Fair test": "One in which only the independent variable has been allowed to affect the dependent variable",
+    "Hypothesis": "A proposal intended to explain certain facts or observations",
+    "Interval": "The quantity between readings",
+    "Precision": "Precise measurements are ones in which there is very little spread about the mean value",
+    "Prediction": "A statement suggesting what will happen in the future, based on observation, experience, or a hypothesis",
+    "Range": "The maximum and minimum values of the independent or dependent variables"
 }
+
 
 
 
