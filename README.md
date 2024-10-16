@@ -6,4 +6,4 @@ Then, click the "copy raw file" button, which is next to the "Raw" button.
 
 Finally paste the code into whatever you want. I recomm]#end trinket.
 
-To use Trinket, go to [trinket.io/python](trinket.io/python) and paste the code into the left side of the editor. Then, you can hit run to run the code.
+To use Trinket, go to [trinket.io/python](https://trinket.io/python) and paste the code into the left side of the editor. Then, you can hit run to run the code.
