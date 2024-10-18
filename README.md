@@ -9,4 +9,4 @@ Click on the file you want (e.g. spelling-test-2.py)
 
 Then, click the "copy raw file" button, which is next to the "Raw" button.
 
-Finally paste the code into whatever editor you want. I recomm]#end trinket
+Finally, paste the code into whatever editor you want. I recommend trinket.
