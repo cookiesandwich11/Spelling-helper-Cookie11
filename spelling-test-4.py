@@ -49,7 +49,7 @@ while True:
         print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
     else:
         print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
-      print("Wrong :( \n The word was: " + word.lower() + "\n Your word was: " + ANSWER)
+        print("Wrong :( \n The word was: " + word.lower() + "\n Your word was: " + ANSWER)
         wrongs += 1
 
 print("You have finished the practice! Your score: " + str(20-wrongs) + "/20")
