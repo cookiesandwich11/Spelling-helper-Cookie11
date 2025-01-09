@@ -6,7 +6,7 @@ Use these links to go to the code runner on trinket.
 * Y9 Test 3: [trinket.io](https://trinket.io/python/7876ac3fce36?outputOnly=true)
 * Y9 Test 4: [trinket.io](https://trinket.io/python/c8ee22e80429?outputOnly=true&runOption=run)
 * Y9 Test 5: [trinket.io](https://trinket.io/python/3d6a9b557bbe?outputOnly=true&runOption=run)
-* Y9 Test 6: [trinket.io](https://trinket.io/python/6b33bc4efc59?toggleCode=true&runOption=console) (Note: This has the extra brackets on 15 and 16)
+* Y9 Test 6: [trinket.io](https://trinket.io/python/6b33bc4efc59?toggleCode=true&runOption=run) (Note: This has the extra brackets on 15 and 16)
 
 Or, use this method if you want to use your own ide:
 Click on the file you want (e.g. spelling-test-2.py)
