@@ -15,7 +15,7 @@ spellings = {
     "Transcendent": "God is beyond tge natural limits of the earth",
     "trinity": "God is one but also 3",
     "Saviour": "Word used to describe Jesus because humans recieved salvation through him.",
-    "Design": "SOme humans believe this is present in the world because it cannot have happened by chance",
+    "Design": "Some humans believe this is present in the world because it cannot have happened by chance",
     "Bible": "The book which Christians belive is the word of God.",
     "Miracle": "A supernatural event that seems to break the law of science and could be caused by God.",
     "Cosmological": "God exists because he was the cause of the universe",
