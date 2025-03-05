@@ -8,6 +8,7 @@ Use these links to go to the code runner on trinket.
 * Y9 Test 5: [trinket.io](https://trinket.io/python/3d6a9b557bbe?outputOnly=true&runOption=run)
 * Y9 Test 6: [trinket.io](https://trinket.io/python/84fe41db175e?toggleCode=true&runOption=run) (Note: This doesn't have the extra brackets on 15 and 16)
 * Y9 Test 8: [trinket.io](https://trinket.io/python/7e98169fd8b2?toggleCode=true&runOption=run)
+* Y9 Test 9: [trinket.io](https://trinket.io/python/0b7b0549d22d?toggleCode=true&runOption=run)
 
 * Y9 History test [trinket.io](https://trinket.io/python/ef4876c53c0c?toggleCode=true&runOption=run)
 
