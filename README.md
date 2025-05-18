@@ -11,6 +11,7 @@ Use these links to go to the code runner on trinket.
 * Y9 Test 9: [trinket.io](https://trinket.io/python/0b7b0549d22d?toggleCode=true&runOption=run)
 * Y9 Test 10: [trinket.io](https://trinket.io/python/d300a60a4e2f?toggleCode=true&runOption=run)
 * Y9 Test 11: [trinket.io](https://trinket.io/python/5d482263a1a7?toggleCode=true&runOption=run)
+* Y9 Test 12: [trinket.io](https://trinket.io/python/81e4aa7f0528?toggleCode=true&runOption=run)
 * Y9 History test [trinket.io](https://trinket.io/python/ef4876c53c0c?toggleCode=true&runOption=run)
 
 Or, use this method if you want to use your own ide:
